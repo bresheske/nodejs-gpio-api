@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-gpio-api",
+  "version": "1.0.0",
+  "description": "api for gpio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"express": "latest",
+	"mongoose": "latest",
+	"body-parser": "latest"
+  }
+}
